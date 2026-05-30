@@ -1,15 +1,15 @@
-# Привет! Я разработчик MurSoftware 👋
+#Hi! I'm a developer at MurSoftware 👋
 
-Добро пожаловать в мой профиль на GitHub. Здесь я делюсь своими утилитами для оптимизации, настройки и защиты Windows. Все мои программы создаются с открытым исходным кодом, чтобы каждый мог убедиться в их безопасности.
+Welcome to my GitHub profile. Here I share my utilities for optimizing, configuring, and protecting Windows. All my programs are open source so everyone can see their security.
 
-### Мои проекты:
-* **MurTools** — Набор быстрых инструментов для повседневного обслуживания системы.
-* **MurBlocker** — Простая утилита для блокировки нежелательных сайтов и программ через файл hosts.
+### My projects:
+* **MurTools** — A set of quick tools for everyday system maintenance.
+* **MurBlocker** — A simple utility for blocking unwanted websites and programs via the hosts file.
 
-### Технологии, которые я использую:
+### Technologies I use:
 * [Python]
 * [Windows]
 
-### Как со мной связаться:
+### How to contact me:
 * **Email:** murflamecooperation@gmail.com
-* **Наш сайт:** [mursoftware.netlify.app](https://mursoftware.netlify.app/)
+* **Our website:** [mursoftware.netlify.app](https://mursoftware.netlify.app/)
