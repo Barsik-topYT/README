@@ -7,8 +7,8 @@
 * **MurBlocker** — Простая утилита для блокировки нежелательных сайтов и программ через файл hosts.
 
 ### 💻 Технологии, которые я использую:
-* ![Python](https://shields.io)
-* ![Windows](https://shields.io)
+* [Python]
+* [Windows]
 
 ### 📬 Как со мной связаться:
 * **Email:** murflamecooperation@gmail.com
